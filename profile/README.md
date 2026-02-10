@@ -3,6 +3,8 @@
 Deze organisatie is een verzameling projecten van studenten om elkaar te helpen.
 Je kunt zelf bijdragen tot deze projecten dus als je vindt dat er iets mist voor de industriële ingenieurs, dan kun je dat toevoegen. Je kunt ook een project starten als je een idee hebt dat je graag wilt delen met andere studenten. 
 
+![KUL Unoffical github projects Logo](./Logo%20github%20kul.png)
+
 
 ##
 ## Contacten & Communicatie
