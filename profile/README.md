@@ -12,7 +12,7 @@ Je kunt ons bereiken via onze server [![Discord](https://img.shields.io/badge/Di
 ## Projecten
 - Studforum Cloud — examenvragen en samenvattingen (inloggen vereist): [Open Studforum Cloud](https://cloud.studforum.net/apps/files/?dir=/&fileid=857448)
 - Studforum Wiki — aanvullende samenvattingen en bronnen en info over de vakken: [Open Studforum Wiki](https://wiki.studforum.net/start)
-
+- Statistiek & Databeheer oplossingen — oplossingen voor de oefeningen van Statistiek & Databeheer: [Open Statistiek & Databeheer Oplossingen](https://github.com/KUL-Industriele-ingenieurs/statistical-data-management)
 - Latex samenvattingen waar je kunt aan bijdragen als er dingen missen of verbeterd kunnen worden: [LaTeX Samenvattingen — samenvattingen in LaTeX-formaat](https://github.com/KUL-Industriele-ingenieurs/Samenvattingen-Ku-leuven-Industriele-ingenieurs)
 
 <!--
